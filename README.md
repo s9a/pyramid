@@ -1,1 +1,1 @@
-# [free](https://github.com/s9a/free)
+# [phree](https://github.com/s9a/free)
